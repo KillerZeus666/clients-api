@@ -126,8 +126,3 @@ ClientsApi/
 
 ---
 
-## 👩‍💻 Author
-
-Developed by [Your Name]
-
----
